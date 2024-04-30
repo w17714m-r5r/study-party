@@ -7,4 +7,3 @@ list from "Cursos"
 
 
 
-escrito desde pc
